@@ -39,12 +39,21 @@ vps
 
 客户端
 ---
-https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients
 
-注意，代理模式选择pac模式不要选择全局模式
+[shadowsocks 给出的连接](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients)
 
-Chrome SwitchySharp
----
+注意，各个客户端在配置代理模式时, 选择pac模式不要选择全局模式.
+
+因为一些大家都懂的原因，我把客户端放在了clients文件夹里面, 这几个客户端根据界面就可以比较清除的知道用法。
+
+    windows --> clients/Shadowsocks-win-2.1.6.zip
+    android影梭 --> clients/yingsuo_android.apk
+    ios --> 请到app store搜索 shadowsocks下载
+
+windows配置好了之后结合Chrome一起使用(用过goagent的人应该都知道SwitchySharp这个插件)
+
+### Chrome SwitchySharp
+
 情景模式
 
 手动配置选择socks代理 127.0.0.1 1080
