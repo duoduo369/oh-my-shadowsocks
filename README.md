@@ -48,7 +48,7 @@ vps
     android影梭 --> clients/yingsuo_android.apk
     ios --> 请到app store搜索 shadowsocks下载
 
-windows配置好了之后结合Chrome一起使用(用过goagent的人应该都知道SwitchySharp这个插件)
+windows配置好了之后结合Chrome一起使用(用过goagent的人应该都知道SwitchySharp这个插件,现在这个插件升级叫做SwitchyOmega)
 
 ### Chrome SwitchySharp
 
