@@ -35,7 +35,7 @@ vps
 ---
 选择一台国外的vps即可，要有root权限
 
-[digitalocean](https://cloud.digitalocean.com/) 5$版本就够用
+[digitalocean](https://www.digitalocean.com/?refcode=2442f64b1152) 5$版本就够用(我无耻了，连接里有我的邀请码，用这个连接注册可以送10刀)
 
 客户端
 ---
