@@ -4,7 +4,7 @@ Usage
 克隆项目到 `/opt/shadowsocks`
 
     sudo apt-get install python-pip
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 修改`conf.json`里面的password
 
