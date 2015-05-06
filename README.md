@@ -3,6 +3,7 @@ Usage
 
 克隆项目到 `/opt/shadowsocks`
 
+    git clone https://github.com/duoduo369/oh-my-shadowsocks.git /opt/shadowsocks
     sudo apt-get install python-pip
     pip install -r requirements.txt
 
